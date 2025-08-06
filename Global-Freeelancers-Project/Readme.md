@@ -13,4 +13,4 @@ What has been implemented:
 
 🎛️ Adding interactivity with filters and slices
 
-
+![Dashboard Preview]((https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Global-Freeelancers-Project/Global_Freelancers_Dashboard.jpg))
