@@ -7,6 +7,9 @@ This is a typical task that you might encounter in a Junior/Middle Data Analyst 
 
  I took the raw data from the Kaggle https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset 
 
+ This dataset contains 1,000 fictional freelancer profiles from around the world, 
+ designed to reflect realistic variability and messiness often encountered in real-world data collection.
+
  What has been implemented:
 
 🔍 Data cleaning and preparation (Power Query)
