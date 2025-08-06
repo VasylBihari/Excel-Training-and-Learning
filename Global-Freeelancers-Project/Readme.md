@@ -16,4 +16,4 @@ This is a typical task that you might encounter in a Junior/Middle Data Analyst 
 
 🎛️ Adding interactivity with filters and slices
 
-[Dashboard Preview](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Global-Freeelancers-Project/Global_Freelancers_Dashboard.jpg)
+![Dashboard Preview](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Global-Freeelancers-Project/Global_Freelancers_Dashboard.jpg)
