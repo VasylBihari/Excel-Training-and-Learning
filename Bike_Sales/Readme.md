@@ -4,7 +4,7 @@ Material used on YouTube Full Project in Excel | Excel Tutorials for Beginners h
 
 Dataset for processing - [dataset](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Bike_Sales/Excel%20Project%20Dataset_raw.xlsx)
 
-[Excel file with pivot tables, dashboard] (https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Bike_Sales/Excel%20Project%20Dataset.xlsx)
+[Excel_file_with_pivot_tables_dashboard](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Bike_Sales/Excel%20Project%20Dataset.xlsx)
 
 Dashboard -
 
