@@ -2,7 +2,7 @@ Mini-project Bike Sales in Excel on data cleaning, creation of pivot tables and 
 
 Material used on YouTube Full Project in Excel | Excel Tutorials for Beginners https://www.youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5
 
-Dataset for processing - 
+Dataset for processing - [dataset](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Bike_Sales/Excel%20Project%20Dataset_raw.xlsx)
 
 Excel file with pivot tables, dashboard -
 
