@@ -6,5 +6,5 @@ Mini-project Bike Sales in Excel on data cleaning, creation of pivot tables and 
 
 * [Excel_file_with_pivot_tables_dashboard](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Bike_Sales/Excel%20Project%20Dataset.xlsx) *
 
-Dashboard -
+![Dashboard](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Bike_Sales/Dashboard.jpg)
 
