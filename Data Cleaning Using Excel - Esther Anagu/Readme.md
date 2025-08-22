@@ -2,8 +2,10 @@
 
 This mini-project demonstrates the process of cleaning a small set of data in Microsoft Excel: 
 
--removing duplicates;
--filling in missing values;
+-removing duplicates; 
+
+-filling in missing values; 
+
 -matching data formats (numeric, date, text).
 
 The goal is to show how basic Excel tools can significantly improve data quality.
