@@ -1,6 +1,7 @@
 ## Data cleaning in Microsoft Excel
 
-This mini-project demonstrates the process of cleaning a small set of data in Microsoft Excel:
+This mini-project demonstrates the process of cleaning a small set of data in Microsoft Excel: 
+
 -removing duplicates;
 -filling in missing values;
 -matching data formats (numeric, date, text).
