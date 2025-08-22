@@ -1,4 +1,4 @@
-## Data cleaning in Microsoft Excel
+## **Data cleaning in Microsoft Excel**
 
 This mini-project demonstrates the process of cleaning a small set of data in Microsoft Excel: 
 
@@ -10,12 +10,12 @@ This mini-project demonstrates the process of cleaning a small set of data in Mi
 
 The goal is to show how basic Excel tools can significantly improve data quality.
 
-BEFORE
+**BEFORE**
 
 ![raw](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Data%20Cleaning%20Using%20Excel%20-%20Esther%20Anagu/raw_data.jpg)
 
 
-AFTER
+**AFTER**
 
 
 ![cleaned](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Data%20Cleaning%20Using%20Excel%20-%20Esther%20Anagu/cleaned_data.jpg)
