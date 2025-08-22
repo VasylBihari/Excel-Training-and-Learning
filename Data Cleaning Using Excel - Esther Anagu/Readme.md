@@ -11,5 +11,7 @@ This mini-project demonstrates the process of cleaning a small set of data in Mi
 The goal is to show how basic Excel tools can significantly improve data quality.
 
 Before
+![raw](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Data%20Cleaning%20Using%20Excel%20-%20Esther%20Anagu/raw_data.jpg)
 
 After
+![cleaned](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Data%20Cleaning%20Using%20Excel%20-%20Esther%20Anagu/cleaned_data.jpg)
