@@ -47,7 +47,9 @@ Built with **Excel and VBA**, this dashboard automates data refresh and provides
 **Vasyl Bihari**
 Data Analyst | Excel & SQL & Python Enthusiast  
 📧 LinkedIn: [https://www.linkedin.com/in/vasyl-bihari-a271a3136/]  
-💼 GitHub: [https://github.com/VasylBihari]   
+💼 GitHub: [https://github.com/VasylBihari] 
+ 💼 Upwork: https://www.upwork.com/freelancers/~012873f7afcdbe30cf?mp_source=share
+ 🎯 Fiverr: https://www.fiverr.com/s/1qg3vj4
 
 ---
 
