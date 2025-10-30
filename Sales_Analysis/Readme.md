@@ -40,7 +40,7 @@ Built with **Excel and VBA**, this dashboard automates data refresh and provides
 * **Phones** and **Chairs** are top-selling items.
 * Most orders are shipped via **Standard Class (59%)**.
 
-![https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Sales_Analysis/dashboard.png]
+!(https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/Sales_Analysis/dashboard.png)
 
 ## 🧑‍💻 Author
 
