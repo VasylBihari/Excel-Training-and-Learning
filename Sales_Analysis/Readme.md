@@ -40,6 +40,7 @@ Built with **Excel and VBA**, this dashboard automates data refresh and provides
 * **Phones** and **Chairs** are top-selling items.
 * Most orders are shipped via **Standard Class (59%)**.
 
+![]
 
 ## 🧑‍💻 Author
 
@@ -51,6 +52,5 @@ Data Analyst | Excel & SQL & Python Enthusiast
 ---
 
 ## 🏷️ Tags
-
 `Excel Dashboard` `Data Analysis` `Sales Analytics` `VBA Automation` `Business Intelligence`
 
