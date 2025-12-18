@@ -3,6 +3,8 @@
 An **interactive HR Analytics Dashboard built in Microsoft Excel**, designed to support **data-driven workforce and executive decision-making**.  
 The project combines a **visual HR dashboard** with a dedicated **Business Insights / Executive Summary** sheet translating data into actionable conclusions.
 ---
+![HR Analytics Dashboard](https://github.com/VasylBihari/Excel-Training-and-Learning/blob/main/HR_%20analytics_team_dashboard/dashboard.jpg)
+
 ## 🎯 Project Objective
 To provide a **single source of truth for HR performance**, enabling:
 - Monitoring of headcount and workforce dynamics
@@ -94,5 +96,6 @@ A separate **Business Insights** sheet translates visuals into **consulting-styl
 
 This project demonstrates how **Excel can be transformed into a powerful executive analytics tool**, bridging the gap between **raw HR data** and **strategic business insights.
 ---
-📎 *Screenshots included above show the main dashboard and the executive summary view.*
+
+
 
